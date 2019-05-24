@@ -14,7 +14,7 @@ export default new Router({
     },
     {
       path: '/page2',
-      component: page1
+      component: page2
     }
   ]
 })
